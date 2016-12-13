@@ -15,4 +15,7 @@
   <ItemGroup>
     <ResourceCompile Include="audio_spi.rc" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="spi.licenseheader" />
+  </ItemGroup>
 </Project>
